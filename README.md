@@ -123,17 +123,26 @@ https://github.com/OlegAnanyev/terraform_io
 ```
 https://github.com/OlegAnanyev/devops-kubespray/blob/master/inventory/diplom-cluster/inventory.ini
 ```
+![image](https://user-images.githubusercontent.com/32748936/139713545-cb50c86c-adb6-41c1-a693-15c4b8fbaf44.png)
+
 4. Репозиторий с Dockerfile тестового приложения и ссылка на собранный docker image.
 ```
 https://gitlab.com/OlegAnanyev/devops-nginx-app/
 https://hub.docker.com/repository/docker/olegananyev/diplom-nginx-app
 ```
+![image](https://user-images.githubusercontent.com/32748936/139713689-f10149a6-7903-4df9-a508-bfc28dae6275.png)
+
 5. Репозиторий с конфигурацией Kubernetes кластера.
 ```
 https://github.com/OlegAnanyev/devops-kubernetes-config
 ```
+![image](https://user-images.githubusercontent.com/32748936/139713263-5b59948a-f5a9-4df1-b4ea-a9074bb65869.png)
+
 6. Ссылка на тестовое приложение и веб интерфейс Grafana с данными доступа.
 ```
 http://3.137.163.70:30001 -- приложение
 http://3.137.163.70:30000/d/85a562078cdf77779eaa1add43ccec1e/kubernetes-compute-resources-namespace-pods?orgId=1&refresh=10s&var-datasource=prometheus&var-cluster=&var-namespace=monitoring
 ```
+![image](https://user-images.githubusercontent.com/32748936/139713398-fb2e63a4-fafd-41cb-a4b5-c7703f88d00a.png)
+
+![image](https://user-images.githubusercontent.com/32748936/139713365-898d9533-d584-434e-b718-eb814c51b3ab.png)
